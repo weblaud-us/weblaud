@@ -6,6 +6,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Focus-Enterprise%20Engineering-blue" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange" />
+  <img src="https://img.shields.io/badge/AI-Production%20Ready-green" />
+</p>
+
+<p align="center">
   <a href="https://weblaud.com"><strong>Website</strong></a> ·
   <a href="mailto:info@weblaud.com"><strong>Contact</strong></a>
 </p>
