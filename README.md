@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://weblaud.com"><strong>Website</strong></a> ·
-  <a href="mailto:info@weblaud.com"><strong>Contact</strong></a>
+  <a href="mailto:info@weblaud.com"><strong>Contact Engineering</strong></a>
 </p>
 
 ---
